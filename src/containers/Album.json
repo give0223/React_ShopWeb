@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "img": "../src/img/adrian.jpg",
+    "title": "美好時光-Time",
+    "desc": "追求心靈養生走入自然，便走入了永恆。我們用音樂邀您進入自然之道，聆聽永恆。自然、和諧，讓人一聽就會放鬆心情、解除一切武裝的旋律",
+    "price": 500,
+    "discount": true
+  },
+  {
+    "id": 2,
+    "img": "../src/img/mark.jpg",
+    "title": "城市幻影",
+    "desc": "如詩般迷炫的法文爵士好歌, 樸實無華且細膩的爵士樂編曲，凸顯了「幻影」專輯中歌詞的如詩美感",
+    "price": 700
+  },
+  {
+    "id": 3,
+    "img": "../src/img/nainoa.jpg",
+    "title": "BACK TO THE EARTH",
+    "desc": "有著各式各樣不同的曲風、創作模式，但共同點就是這些獨立樂團們可是有著大把大把的好歌等著你來聽",
+    "price": 950,
+    "discount": true
+  }
+]
